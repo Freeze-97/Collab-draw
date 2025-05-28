@@ -1,4 +1,4 @@
-# Collab_draw
+# 🖌️ Collab_draw
 
 **Collab_draw** is a collaborative GUI drawing application developed as part of a reactive programming course. It allows multiple clients to connect to the same drawing board over a network and draw in real-time, either freely or using predefined shapes like rectangles, circles, and straight lines.
 
